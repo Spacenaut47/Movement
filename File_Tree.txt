@@ -1,0 +1,140 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0654-E951
+C:.
+ª   .gitignore
+ª   Microsoft.ILP2025.EmployeeCRUD.sln
+ª   README.md
+ª   tree.txt
+ª   
++---Microsoft.ILP2025.EmployeeCRUD.Entities
+ª       EmployeeEntity.cs
+ª       Microsoft.ILP2025.EmployeeCRUD.Entities.csproj
+ª       
++---Microsoft.ILP2025.EmployeeCRUD.Repositores
+ª       EmployeeRepository.cs
+ª       IEmployeeRepository.cs
+ª       Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj
+ª       
++---Microsoft.ILP2025.EmployeeCRUD.Servcies
+ª       EmployeeServcie.cs
+ª       IEmployeeService.cs
+ª       Microsoft.ILP2025.EmployeeCRUD.Servcies.csproj
+ª       
++---Microsoft.ILP2025.EmployeeCRUD.Web
+    ª   appsettings.Development.json
+    ª   appsettings.json
+    ª   Microsoft.ILP2025.EmployeeCRUD.Web.csproj
+    ª   Program.cs
+    ª   
+    +---Controllers
+    ª       EmployeeController.cs
+    ª       
+    +---Models
+    ª       ErrorViewModel.cs
+    ª       
+    +---Properties
+    ª       launchSettings.json
+    ª       
+    +---Views
+    ª   ª   _ViewImports.cshtml
+    ª   ª   _ViewStart.cshtml
+    ª   ª   
+    ª   +---Employee
+    ª   ª       Details.cshtml
+    ª   ª       Index.cshtml
+    ª   ª       
+    ª   +---Shared
+    ª           Error.cshtml
+    ª           _Layout.cshtml
+    ª           _Layout.cshtml.css
+    ª           _ValidationScriptsPartial.cshtml
+    ª           
+    +---wwwroot
+        ª   favicon.ico
+        ª   
+        +---css
+        ª       site.css
+        ª       
+        +---js
+        ª       site.js
+        ª       
+        +---lib
+            +---bootstrap
+            ª   ª   LICENSE
+            ª   ª   
+            ª   +---dist
+            ª       +---css
+            ª       ª       bootstrap-grid.css
+            ª       ª       bootstrap-grid.css.map
+            ª       ª       bootstrap-grid.min.css
+            ª       ª       bootstrap-grid.min.css.map
+            ª       ª       bootstrap-grid.rtl.css
+            ª       ª       bootstrap-grid.rtl.css.map
+            ª       ª       bootstrap-grid.rtl.min.css
+            ª       ª       bootstrap-grid.rtl.min.css.map
+            ª       ª       bootstrap-reboot.css
+            ª       ª       bootstrap-reboot.css.map
+            ª       ª       bootstrap-reboot.min.css
+            ª       ª       bootstrap-reboot.min.css.map
+            ª       ª       bootstrap-reboot.rtl.css
+            ª       ª       bootstrap-reboot.rtl.css.map
+            ª       ª       bootstrap-reboot.rtl.min.css
+            ª       ª       bootstrap-reboot.rtl.min.css.map
+            ª       ª       bootstrap-utilities.css
+            ª       ª       bootstrap-utilities.css.map
+            ª       ª       bootstrap-utilities.min.css
+            ª       ª       bootstrap-utilities.min.css.map
+            ª       ª       bootstrap-utilities.rtl.css
+            ª       ª       bootstrap-utilities.rtl.css.map
+            ª       ª       bootstrap-utilities.rtl.min.css
+            ª       ª       bootstrap-utilities.rtl.min.css.map
+            ª       ª       bootstrap.css
+            ª       ª       bootstrap.css.map
+            ª       ª       bootstrap.min.css
+            ª       ª       bootstrap.min.css.map
+            ª       ª       bootstrap.rtl.css
+            ª       ª       bootstrap.rtl.css.map
+            ª       ª       bootstrap.rtl.min.css
+            ª       ª       bootstrap.rtl.min.css.map
+            ª       ª       
+            ª       +---js
+            ª               bootstrap.bundle.js
+            ª               bootstrap.bundle.js.map
+            ª               bootstrap.bundle.min.js
+            ª               bootstrap.bundle.min.js.map
+            ª               bootstrap.esm.js
+            ª               bootstrap.esm.js.map
+            ª               bootstrap.esm.min.js
+            ª               bootstrap.esm.min.js.map
+            ª               bootstrap.js
+            ª               bootstrap.js.map
+            ª               bootstrap.min.js
+            ª               bootstrap.min.js.map
+            ª               
+            +---jquery
+            ª   ª   LICENSE.txt
+            ª   ª   
+            ª   +---dist
+            ª           jquery.js
+            ª           jquery.min.js
+            ª           jquery.min.map
+            ª           jquery.slim.js
+            ª           jquery.slim.min.js
+            ª           jquery.slim.min.map
+            ª           
+            +---jquery-validation
+            ª   ª   LICENSE.md
+            ª   ª   
+            ª   +---dist
+            ª           additional-methods.js
+            ª           additional-methods.min.js
+            ª           jquery.validate.js
+            ª           jquery.validate.min.js
+            ª           
+            +---jquery-validation-unobtrusive
+                ª   LICENSE.txt
+                ª   
+                +---dist
+                        jquery.validate.unobtrusive.js
+                        jquery.validate.unobtrusive.min.js
+                        
